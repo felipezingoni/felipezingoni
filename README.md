@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I think I am a social person**
 
-My projects:
+- 🗃 My projects:
 
 <p><strong>🎣Fishup</strong> - - It is a digital community for lovers of fishing, which provides detailed information about the different spots around the world. The app was developed during the 9 weeks of the bootcamp.
 www.fishup.xyz</p>
