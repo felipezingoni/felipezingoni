@@ -6,6 +6,8 @@
 
 - 👯 I’m looking to collaborate on **a new project**
 
+- 💻 My Portfolio: https://dribbble.com/felipezingoni
+
 - 📫 How to reach me **felipezingoni.fz@gmail.com**
 
 - ⚡ Fun fact **I think I am a social person**
