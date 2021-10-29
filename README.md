@@ -25,6 +25,10 @@ seeds.
 www.zinmaseeds.com</p>
 <img width="1440" alt="Captura de Pantalla 2021-10-26 a la(s) 12 11 43" src="https://user-images.githubusercontent.com/88393360/138908325-57ae5ef7-b350-4c2f-a2c6-80f3cb9d9e7e.png">
 
+<p><strong>⛵️Fune</strong> - Is a project in which people can rent boats for different activities around the world.
+http://fune-lewagon.herokuapp.com/</p>
+<img width="1440" alt="Captura de Pantalla 2021-10-29 a la(s) 17 31 36" src="https://user-images.githubusercontent.com/88393360/139498295-539fc1dc-f7ad-42d1-bfd0-638035a5dfac.png">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
