@@ -14,6 +14,19 @@
 
 - 🗃 My projects:
 
+<p><strong>🪙Bita Academy</strong> - - It is a beacon of knowledge within thefascinating crypto universe. Its objective is to teach, for free,everything related to this innovative decentralized economicsystem.
+https://www.bitalabs.com/</p>
+
+<video width="320" height="240">
+  <source src="https://user-images.githubusercontent.com/88393360/165640112-df454f30-91eb-4bd5-a0e7-b0f6a7039ba4.mov" type="video/mp4">
+  <source src="https://user-images.githubusercontent.com/88393360/165640112-df454f30-91eb-4bd5-a0e7-b0f6a7039ba4.mov" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+
+
+
+
+
 <p><strong>🎣Fishup</strong> - - It is a digital community for lovers of fishing, which provides detailed information about the different spots around the world. The app was developed during the 9 weeks of the bootcamp.
 www.fishup.xyz</p>
 <img width="1440" alt="Captura de Pantalla 2021-10-26 a la(s) 11 38 12" src="https://user-images.githubusercontent.com/88393360/138904811-15b2ddaf-f316-4e99-99fb-33c49976a31a.png">
