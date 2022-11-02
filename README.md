@@ -15,7 +15,7 @@
 - 🗃 My projects:
 
 <p><strong>🪙Bita Academy</strong> - - It is a beacon of knowledge within thefascinating crypto universe. Its objective is to teach, for free,everything related to this innovative decentralized economicsystem.
-https://www.bitalabs.com/</p>
+[https://www.bitalabs.com/](https://bitalabs.herokuapp.com/)</p>
 <img width="1440" alt="Captura de Pantalla 2022-04-27 a la(s) 19 18 30" src="https://user-images.githubusercontent.com/88393360/165640618-5b365f33-e266-46d5-afec-26c63d90e65d.png">
 
 
