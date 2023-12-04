@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **a new project**
 
-- 💻 My Portfolio: https://dribbble.com/felipezingoni
+- 💻 My Portfolio: https://zeff-studio.netlify.app/
 
 - 📫 How to reach me **felipezingoni.fz@gmail.com**
 
