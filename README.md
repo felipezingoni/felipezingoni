@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Felipe Zingoni</h1>
-<h3 align="center">A passionate frontend and backend developer from Argentina</h3>
+<h3 align="center">A passionate frontend and backend developer</h3>
 
 - 🔭 I’m currently working on [Zinma Seeds project](www.zinmaseeds.com)
 
